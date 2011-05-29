@@ -1,12 +1,10 @@
-﻿package
+package
 {
 	import flash.events.*;
 	import flash.display.Sprite;
 	import flash.external.*;
 	import flash.utils.*;
 	import ZmqSocket;
-
-    import flash.text.*;
 
 	public class ZmqSocketMain extends Sprite
 	{
