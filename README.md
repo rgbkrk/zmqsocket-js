@@ -2,7 +2,8 @@
 
 With ZmqSocket you can talk to zmq sockets from your JavaScript code. You can connect, send and receive string messages. As JavaScript does not support raw TCP connections, it uses Flash as a bridge. 
 
- 
+Note: This was automagically imported from https://code.google.com/p/zmqsocket-js 
+
 ## Download
 
 Precompiled flash object is available at downloads section
