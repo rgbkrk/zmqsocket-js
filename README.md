@@ -36,13 +36,10 @@ To build flash object from sources, you will need [ZmqSocket.as](ZmqSocket.as)
 
 
 
- License
- -------
- GNU GPL v3
+## License
 
+GNU GPL v3
 
- Author
- ------
- Copyright 2011 by Artur Brugeman
+## Author
 
-  
+Copyright 2011 by Artur Brugeman
