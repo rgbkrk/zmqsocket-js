@@ -1,0 +1,1 @@
+ZmqSocket.js allows you to talk to zmq sockets from JavaScript. It works over Flash object, which encapsulates ZmqSocket.as.
